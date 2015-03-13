@@ -1,0 +1,9 @@
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\bin\Debug\TestTiffImage.exe.config
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\bin\Debug\TestTiffImage.exe
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\bin\Debug\TestTiffImage.pdb
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.csprojResolveAssemblyReference.cache
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.Form1.resources
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.Properties.Resources.resources
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.csproj.GenerateResource.Cache
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.exe
+C:\Users\zcai\Documents\Projects\Test Projects\TestTiffImage\TestTiffImage\obj\Debug\TestTiffImage.pdb
